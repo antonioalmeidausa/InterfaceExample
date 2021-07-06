@@ -1,0 +1,12 @@
+/Users/antonioalmeida/Desktop/My_projects/C#/InterfaceExample/InterfaceExample/InterfaceExample/bin/Debug/netcoreapp3.1/InterfaceExample.deps.json
+/Users/antonioalmeida/Desktop/My_projects/C#/InterfaceExample/InterfaceExample/InterfaceExample/bin/Debug/netcoreapp3.1/InterfaceExample.runtimeconfig.json
+/Users/antonioalmeida/Desktop/My_projects/C#/InterfaceExample/InterfaceExample/InterfaceExample/bin/Debug/netcoreapp3.1/InterfaceExample.runtimeconfig.dev.json
+/Users/antonioalmeida/Desktop/My_projects/C#/InterfaceExample/InterfaceExample/InterfaceExample/bin/Debug/netcoreapp3.1/InterfaceExample.dll
+/Users/antonioalmeida/Desktop/My_projects/C#/InterfaceExample/InterfaceExample/InterfaceExample/bin/Debug/netcoreapp3.1/InterfaceExample.pdb
+/Users/antonioalmeida/Desktop/My_projects/C#/InterfaceExample/InterfaceExample/InterfaceExample/obj/Debug/netcoreapp3.1/InterfaceExample.csproj.AssemblyReference.cache
+/Users/antonioalmeida/Desktop/My_projects/C#/InterfaceExample/InterfaceExample/InterfaceExample/obj/Debug/netcoreapp3.1/InterfaceExample.AssemblyInfoInputs.cache
+/Users/antonioalmeida/Desktop/My_projects/C#/InterfaceExample/InterfaceExample/InterfaceExample/obj/Debug/netcoreapp3.1/InterfaceExample.AssemblyInfo.cs
+/Users/antonioalmeida/Desktop/My_projects/C#/InterfaceExample/InterfaceExample/InterfaceExample/obj/Debug/netcoreapp3.1/InterfaceExample.csproj.CoreCompileInputs.cache
+/Users/antonioalmeida/Desktop/My_projects/C#/InterfaceExample/InterfaceExample/InterfaceExample/obj/Debug/netcoreapp3.1/InterfaceExample.dll
+/Users/antonioalmeida/Desktop/My_projects/C#/InterfaceExample/InterfaceExample/InterfaceExample/obj/Debug/netcoreapp3.1/InterfaceExample.pdb
+/Users/antonioalmeida/Desktop/My_projects/C#/InterfaceExample/InterfaceExample/InterfaceExample/obj/Debug/netcoreapp3.1/InterfaceExample.genruntimeconfig.cache
