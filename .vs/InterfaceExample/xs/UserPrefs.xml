@@ -1,19 +1,17 @@
-﻿<Properties StartupConfiguration="{2D1229B9-1A81-40B7-A1A8-0BF47862547F}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{2D1229B9-1A81-40B7-A1A8-0BF47862547F}|Default">
   <MonoDevelop.Ide.ItemProperties.InterfaceExample PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InterfaceExample/Interface/VehicleInterface.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="InterfaceExample/Program.cs" Line="13" Column="1" />
-      <File FileName="InterfaceExample/Interface/VehicleInterface.cs" Line="8" Column="69" />
-      <File FileName="InterfaceExample/Vehicle.cs" Line="6" Column="9" />
+      <File FileName="InterfaceExample/Vehicle.cs" Line="7" Column="1" />
+      <File FileName="InterfaceExample/Interface/VehicleInterface.cs" Line="26" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="InterfaceExample" expanded="True">
+          <Node name="InterfaceExample" expanded="True" selected="True">
             <Node name="InterfaceExample" expanded="True">
-              <Node name="Interface" expanded="True">
-                <Node name="VehicleInterface.cs" selected="True" />
-              </Node>
+              <Node name="Interface" expanded="True" />
             </Node>
           </Node>
         </State>
